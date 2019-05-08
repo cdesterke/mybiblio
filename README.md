@@ -1,7 +1,7 @@
 # mybiblio
 Program with R dependency which catch your bibiography on PUBMED and draw barplots
 
-##Draw your publications on Pubmed database
+##Draw your publications from Pubmed database
 
 #usage:
 ./start.sh "your name"
