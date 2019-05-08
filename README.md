@@ -3,11 +3,10 @@ Program with R dependency which catch your bibiography on PUBMED and draw barplo
 
 ##Draw your publications on Pubmed database
 
-#usage
+#usage:
 ./start.sh "your name"
 
 #dependencies
 this program run in BASH terminal and need R software installed on the sytem
 
-#results
-results will be write in "RESULTS" folder
+#results will be write in "RESULTS" folder
